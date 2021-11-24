@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/message"
+                android:title="@string/Cycling"
+                android:icon="@drawable/baseline_message_24"/>
+        <item
+                android:id="@+id/activity"
+                android:title="@string/Bus"
+                android:icon="@drawable/baseline_directions_bus_24"/>
+        <item
+                android:id="@+id/lists"
+                android:title="@string/Plan"
+                android:icon="@drawable/baseline_moving_24"/>
+    </group>
+    <group android:id="@+id/menu_drawer_left"
+           android:checkableBehavior="none">
+        <item android:title="@string/Profile">
+            <menu>
+                <item
+                        android:id="@+id/login"
+                        android:title="@string/login"
+                        android:icon="@drawable/outline_login_24"/>
+                <item
+                        android:id="@+id/logout"
+                        android:title="@string/logout"
+                        android:icon="@drawable/outline_logout_24"/>
+            </menu>
+        </item>
+    </group>
+</menu>

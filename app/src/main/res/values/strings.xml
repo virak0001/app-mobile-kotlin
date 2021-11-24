@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">creatively</string>
+    <string name="notifications">notifications</string>
+    <string name="account">account</string>
+    <string name="todo">TODO</string>
+    <string name="traveling">Traveling</string>
+    <string name="communication">Communication</string>
+    <string name="profile">Profile</string>
+    <string name="this_is_my_content_area">This is my content area.</string>
+    <string name="Message">Message</string>
+    <string name="Activity">Activity</string>
+    <string name="Lists">Lists</string>
+    <string name="Reports">Reports</string>
+    <string name="Statistic">Statistic</string>
+    <string name="Signout">Sign out</string>
+    <string name="Profile">Profile</string>
+    <string name="wwwtravelingcom">www.traveling.com</string>
+    <string name="Home">Home</string>
+    <string name="Cyleing">Cyleing</string>
+    <string name="Bus">Bus</string>
+    <string name="Plan">Plan</string>
+    <string name="login">Login</string>
+    <string name="Cycleing">Cycleing</string>
+    <string name="Cycling">Cycling</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rateus">Rate us</string>
+    <string name="blogs">Blogs</string>
+    <string name="chapters">Chapters</string>
+    <string name="android_store">Android Store</string>
+    <string name="place">Place</string>
+</resources>
